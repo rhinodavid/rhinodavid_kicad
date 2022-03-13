@@ -1,6 +1,6 @@
 (footprint "OLED-SSD1306-128X64_folded" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622C58F4)
+  (tedit 622D591E)
   (descr "128x64 OLED display folded at the cable. The outline shown in F.Fab properly accounts for the thickness of the fold.")
   (tags "display oled buydisplay 128x64")
   (attr smd)
@@ -5661,9 +5661,9 @@
       fff1e5d9-44d0-4aaa-92fd-20e1e171bf39
     )
   )
-  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/OLED-128O064D.wrl"
-    (offset (xyz 0 -6.14 0))
+  (model ":rhinodavid:OLED_SSD1306-128x64_folded.step"
+    (opacity 0.2900)    (offset (xyz -11 -6.4 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
