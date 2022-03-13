@@ -63,6 +63,15 @@
         "74AUP1T00GX_footprint.png"
       ],
       "part_number": "74AUP1T00GX"
+    },
+    {
+      "description": "6mm SPDT SMD tactile switch. Use with 74AUP1T00GX for a debounce.",
+      "has_footprint": true,
+      "has_model": false,
+      "has_symbol": true,
+      "id": 6,
+      "images": ["TLSM-D-T3-C-020-G-LFS.png"],
+      "part_number": "TLSM-D-T3-C-020-G"
     }
   ]
 }
