@@ -21,8 +21,7 @@
       "has_model": false,
       "has_symbol": true,
       "id": 1,
-      "images": [
-      ],
+      "images": [],
       "part_number": "MMSZ5261BT1G"
     },
     {
@@ -31,8 +30,7 @@
       "has_model": false,
       "has_symbol": false,
       "id": 2,
-      "images": [
-      ],
+      "images": [],
       "part_number": "Neopixel 3535"
     },
     {
@@ -41,8 +39,7 @@
       "has_model": false,
       "has_symbol": true,
       "id": 3,
-      "images": [
-      ],
+      "images": [],
       "part_number": "1206L150TH"
     },
     {
@@ -50,11 +47,22 @@
       "has_footprint": true,
       "has_model": false,
       "has_symbol": true,
-      "id": 3,
-      "images": [
-      ],
+      "id": 4,
+      "images": [],
       "part_number": "SSM3J331"
+    },
+    {
+      "description": "1 Channel Schmitt Trigger NAND Gate IC in a 5-X2SON (0.80mm x 0.80mm) package. Great for button debouncing.",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 5,
+      "images": [
+        "74AUP1T00GX_render_1.png",
+        "74AUP1T00GX_render_2.png",
+        "74AUP1T00GX_footprint.png"
+      ],
+      "part_number": "74AUP1T00GX"
     }
   ]
 }
-

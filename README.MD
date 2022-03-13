@@ -97,3 +97,23 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 </p>
 
 
+### 74AUP1T00GXH
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="32" height=32 />
+</div>
+
+<p>
+
+1 Channel Schmitt Trigger NAND Gate IC in a 5-X2SON (0.80mm x 0.80mm) package. Great for button debouncing.
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/74AUP1T00GXH_render_1.png" width="320" height=320>
+    <img src="./docs/readme/img/74AUP1T00GXH_render_2.png" width="320" height=320>
+    <img src="./docs/readme/img/74AUP1T00GXH_footprint.png" width="320" height=320>
+</div>
+
