@@ -1,6 +1,6 @@
 (footprint "OLED-SSD1306-128X64_folded" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622D591E)
+  (tedit 622E758A)
   (descr "128x64 OLED display folded at the cable. The outline shown in F.Fab properly accounts for the thickness of the fold.")
   (tags "display oled buydisplay 128x64")
   (attr smd)
