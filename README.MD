@@ -17,7 +17,7 @@ KiCad 6.0 and above
 
 ## Parts
 
-### OLED_SSD1306
+### OLED_SSD1306_folded
 
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
@@ -27,7 +27,7 @@ KiCad 6.0 and above
 
 <p>
 
-192x64 OLED display available on eBay and [buydisplay.com](https://www.buydisplay.com/datasheet-128x64-oled-module-spi-0-96-inch-graphic-displays-white-on-black).
+192x64 OLED display available on eBay and [buydisplay.com](https://www.buydisplay.com/datasheet-128x64-oled-module-spi-0-96-inch-graphic-displays-white-on-black).<br />The display is mounted face down and then folded backwards.
 
 </p>
 

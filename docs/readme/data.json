@@ -3,7 +3,7 @@
   "image_size": 320,
   "parts": [
     {
-      "description": "192x64 OLED display available on eBay and [buydisplay.com](https://www.buydisplay.com/datasheet-128x64-oled-module-spi-0-96-inch-graphic-displays-white-on-black).",
+      "description": "192x64 OLED display available on eBay and [buydisplay.com](https://www.buydisplay.com/datasheet-128x64-oled-module-spi-0-96-inch-graphic-displays-white-on-black).<br />The display is mounted face down and then folded backwards.",
       "has_footprint": true,
       "has_model": true,
       "has_symbol": true,
@@ -13,7 +13,7 @@
         "OLED-SSD1306-128X64_folded_footprint.png",
         "OLED-SSD1306-128X64_folded_model.png"
       ],
-      "part_number": "OLED_SSD1306"
+      "part_number": "OLED_SSD1306_folded"
     },
     {
       "description": "Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.",
