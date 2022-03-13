@@ -44,6 +44,17 @@
       "images": [
       ],
       "part_number": "1206L150TH"
+    },
+    {
+      "description": "P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.",
+      "has_footprint": true,
+      "has_model": false,
+      "has_symbol": true,
+      "id": 3,
+      "images": [
+      ],
+      "part_number": "SSM3J331"
     }
   ]
 }
+

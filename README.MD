@@ -82,3 +82,18 @@ Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.
 </p>
 
 
+### SSM3J331
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
+</div>
+
+<p>
+
+P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
+
+</p>
+
+
