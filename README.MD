@@ -15,6 +15,18 @@ Digikey. Look for a link to Digikey in the symbol metadata.
 
 KiCad 6.0 and above
 
+## Adding a part
+
+- Add symbol to library using eSchema
+- Add footprint to `rhinodavid.pretty` directory
+- Add STEP file to `rhinodavid.pretty` directory
+  - Make sure the 3D model is assigned to and properly positioned on the footprint
+- Add images to `./docs/readme/img`
+- Update `./docs/readme/data.json` with the new part
+- Regenerate the README
+  - This requires the [Handlebars CLI](https://www.npmjs.com/package/hbs-cli)
+  - Run `./docs/readme/generate.sh`
+
 ## Parts
 
 ### OLED_SSD1306_folded
