@@ -14,9 +14,9 @@ Digikey. Look for a link to Digikey in the symbol metadata.
 ### OLED_SSD1306
 
 <div display="flex">
-        <img alt="Symbol available" src="./docs/readme/symbol_icon.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon.png" width="32" height="32">
-        <img alt="Model available" src="./docs/readme/model_icon.png" width="32" height=32 />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="32" height=32 />
 </div>
 
 <p>
@@ -34,8 +34,9 @@ Digikey. Look for a link to Digikey in the symbol metadata.
 ### MMSZ5261BT1G
 
 <div display="flex">
-        <img alt="Symbol available" src="./docs/readme/symbol_icon.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon.png" width="32" height="32">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
 </div>
 
 <p>
@@ -48,7 +49,9 @@ Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.
 ### Neopixel 3535
 
 <div display="flex">
-        <img alt="Footprint available" src="./docs/readme/footprint_icon.png" width="32" height="32">
+        <img alt="Symbol unavailable" src="./docs/readme/symbol_icon.png" width="32" height="32" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
 </div>
 
 <p>
@@ -61,8 +64,9 @@ WS2812B Neopixel LED in a 3.5mm x 3.5mm package.
 ### 1206L150TH
 
 <div display="flex">
-        <img alt="Footprint available" src="./docs/readme/footprint_icon.png" width="32" height="32">
-        <img alt="Model available" src="./docs/readme/model_icon.png" width="32" height=32 />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
 </div>
 
 <p>

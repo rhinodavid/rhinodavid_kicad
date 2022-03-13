@@ -9,13 +9,19 @@
 
 <div display="flex">
     {{#if has_symbol}}
-        <img alt="Symbol available" src="./docs/readme/symbol_icon.png" width="{{ ../icon_size }}" height="{{ ../icon_size }}" />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="{{ ../icon_size }}" height="{{ ../icon_size }}" />
+    {{else}}
+        <img alt="Symbol unavailable" src="./docs/readme/symbol_icon.png" width="{{ ../icon_size }}" height="{{ ../icon_size }}" />
     {{/if}}
     {{#if has_footprint}}
-        <img alt="Footprint available" src="./docs/readme/footprint_icon.png" width="{{ ../icon_size }}" height="{{ ../icon_size }}">
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="{{ ../icon_size }}" height="{{ ../icon_size }}">
+    {{else}}
+        <img alt="Footprint unavailable" src="./docs/readme/footprint_icon.png" width="{{ ../icon_size }}" height="{{ ../icon_size }}">
     {{/if}}
     {{#if has_model}}
-        <img alt="Model available" src="./docs/readme/model_icon.png" width="{{ ../icon_size }}" height={{ ../icon_size }} />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="{{ ../icon_size }}" height={{ ../icon_size }} />
+    {{else}}
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="{{ ../icon_size }}" height={{ ../icon_size }} />
     {{/if}}
 </div>
 

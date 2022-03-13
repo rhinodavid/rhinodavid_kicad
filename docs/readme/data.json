@@ -38,8 +38,8 @@
     {
       "description": "Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.",
       "has_footprint": true,
-      "has_model": true,
-      "has_symbol": false,
+      "has_model": false,
+      "has_symbol": true,
       "id": 3,
       "images": [
       ],
