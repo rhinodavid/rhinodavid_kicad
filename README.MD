@@ -20,9 +20,9 @@ KiCad 6.0 and above
 ### OLED_SSD1306_folded
 
 <div display="flex">
-        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="32" height=32 />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
 </div>
 
 <p>
@@ -32,17 +32,17 @@ KiCad 6.0 and above
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_render.png" width="320" height=320>
-    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_footprint.png" width="320" height=320>
-    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_model.png" width="320" height=320>
+    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_render.png" width="320" height=320 />
+    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_footprint.png" width="320" height=320 />
+    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_model.png" width="320" height=320 />
 </div>
 
 ### MMSZ5261BT1G
 
 <div display="flex">
-        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
 </div>
 
 <p>
@@ -55,9 +55,9 @@ Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.
 ### Neopixel 3535
 
 <div display="flex">
-        <img alt="Symbol unavailable" src="./docs/readme/symbol_icon.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
+        <img alt="Symbol unavailable" src="./docs/readme/symbol_icon.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
 </div>
 
 <p>
@@ -70,9 +70,9 @@ WS2812B Neopixel LED in a 3.5mm x 3.5mm package.
 ### 1206L150TH
 
 <div display="flex">
-        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
 </div>
 
 <p>
@@ -85,9 +85,9 @@ Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.
 ### SSM3J331
 
 <div display="flex">
-        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="32" height=32 />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
 </div>
 
 <p>
@@ -97,12 +97,12 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 </p>
 
 
-### 74AUP1T00GXH
+### 74AUP1T00GX
 
 <div display="flex">
-        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="32" height="32" />
-        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="32" height="32">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="32" height=32 />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
 </div>
 
 <p>
@@ -112,8 +112,26 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/74AUP1T00GXH_render_1.png" width="320" height=320>
-    <img src="./docs/readme/img/74AUP1T00GXH_render_2.png" width="320" height=320>
-    <img src="./docs/readme/img/74AUP1T00GXH_footprint.png" width="320" height=320>
+    <img src="./docs/readme/img/74AUP1T00GX_render_1.png" width="320" height=320 />
+    <img src="./docs/readme/img/74AUP1T00GX_render_2.png" width="320" height=320 />
+    <img src="./docs/readme/img/74AUP1T00GX_footprint.png" width="320" height=320 />
+</div>
+
+### TLSM-D-T3-C-020-G
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
+</div>
+
+<p>
+
+6mm SPDT SMD tactile switch. Use with 74AUP1T00GX for a debounce.
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/TLSM-D-T3-C-020-G-LFS.png" width="320" height=320 />
 </div>
 
