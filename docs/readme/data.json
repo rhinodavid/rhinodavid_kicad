@@ -72,6 +72,18 @@
       "id": 6,
       "images": ["TLSM-D-T3-C-020-G-LFS.png"],
       "part_number": "TLSM-D-T3-C-020-G"
+    },
+    {
+      "description": "4 Position Wire to Board Terminal Block Horizontal 0.1\" (2.54mm) Through Hole.",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 7,
+      "images": [
+        "TBL003-254-04GR-2OR_render.png",
+        "TBL003-254-04GR-2OR_model.png"
+      ],
+      "part_number": "TBL003-254-04GR-2OR"
     }
   ]
 }

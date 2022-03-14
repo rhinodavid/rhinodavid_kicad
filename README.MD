@@ -147,3 +147,22 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
     <img src="./docs/readme/img/TLSM-D-T3-C-020-G-LFS.png" width="320" height=320 />
 </div>
 
+### TBL003-254-04GR-2OR
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+</div>
+
+<p>
+
+4 Position Wire to Board Terminal Block Horizontal 0.1" (2.54mm) Through Hole.
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/TBL003-254-04GR-2OR_render.png" width="320" height=320 />
+    <img src="./docs/readme/img/TBL003-254-04GR-2OR_model.png" width="320" height=320 />
+</div>
+
