@@ -84,6 +84,15 @@
         "TBL003-254-04GR-2OR_model.png"
       ],
       "part_number": "TBL003-254-04GR-2OR"
+    },
+    {
+      "description": "Synchronous Boost DC/DC Converter 3.3 V",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 8,
+      "images": [],
+      "part_number": "BU33UV7NUX"
     }
   ]
 }
