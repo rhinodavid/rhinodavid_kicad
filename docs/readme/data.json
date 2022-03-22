@@ -93,6 +93,15 @@
       "id": 8,
       "images": [],
       "part_number": "BU33UV7NUX"
+    },
+    {
+      "description": "Ultra-Low Quiescent Current Synchronous Boost with Integrated LDO/Load Switch",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 9,
+      "images": ["TPS61098x_render.png"],
+      "part_number": "TPS61098x"
     }
   ]
 }
