@@ -1,6 +1,6 @@
 (footprint "TPS61098x" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 623945A7)
+  (tedit 62397BBB)
   (descr "Texas Instruments WSON6 1.50 mm x 1.5 mm")
   (tags "WSON6_1.5x1.5mm_P0.5mm TPS61098x dmw")
   (attr smd)
@@ -37,9 +37,9 @@
     (solder_mask_margin -0.05) (solder_paste_margin -0.05) (tstamp 552e5f63-84ab-4354-808b-89e950c059a8))
   (pad "6" smd roundrect (at 1.035 -0.5 270) (size 0.35 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2)
     (solder_mask_margin -0.05) (solder_paste_margin -0.05) (tstamp 81169b35-ee4e-45af-a964-44044abfa6ac))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-6_1.5x1.5mm_P0.5mm.wrl"
-    (offset (xyz 0 0 0))
+  (model ":rhinodavid:TPS61098x.step"
+    (offset (xyz 0.16 0 0.05))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 90 0 0))
   )
 )
