@@ -34,7 +34,7 @@ KiCad 6.0 and above
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
@@ -44,9 +44,9 @@ KiCad 6.0 and above
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_render.png" width="320" height=320 />
-    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_footprint.png" width="320" height=320 />
-    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_model.png" width="320" height=320 />
+    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_render.png" width="320" height="320" />
+    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_footprint.png" width="320" height="320" />
+    <img src="./docs/readme/img/OLED-SSD1306-128X64_folded_model.png" width="320" height="320" />
 </div>
 
 ### MMSZ5261BT1G
@@ -54,7 +54,7 @@ KiCad 6.0 and above
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
 </div>
 
 <p>
@@ -69,7 +69,7 @@ Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
@@ -79,7 +79,7 @@ SK6812MINI Neopixel LED in a 3.5mm x 3.5mm package.
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/SK6812MINI_render.png" width="320" height=320 />
+    <img src="./docs/readme/img/SK6812MINI_render.png" width="320" height="320" />
 </div>
 
 ### 1206L150TH
@@ -87,7 +87,7 @@ SK6812MINI Neopixel LED in a 3.5mm x 3.5mm package.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
 </div>
 
 <p>
@@ -102,7 +102,7 @@ Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
 </div>
 
 <p>
@@ -117,7 +117,7 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
@@ -127,9 +127,9 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/74AUP1T00GX_render_1.png" width="320" height=320 />
-    <img src="./docs/readme/img/74AUP1T00GX_render_2.png" width="320" height=320 />
-    <img src="./docs/readme/img/74AUP1T00GX_footprint.png" width="320" height=320 />
+    <img src="./docs/readme/img/74AUP1T00GX_render_1.png" width="320" height="320" />
+    <img src="./docs/readme/img/74AUP1T00GX_render_2.png" width="320" height="320" />
+    <img src="./docs/readme/img/74AUP1T00GX_footprint.png" width="320" height="320" />
 </div>
 
 ### TLSM-D-T3-C-020-G
@@ -137,7 +137,7 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
 </div>
 
 <p>
@@ -147,7 +147,7 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/TLSM-D-T3-C-020-G-LFS.png" width="320" height=320 />
+    <img src="./docs/readme/img/TLSM-D-T3-C-020-G-LFS.png" width="320" height="320" />
 </div>
 
 ### TBL003-254-04GR-2OR
@@ -155,7 +155,7 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
@@ -165,8 +165,8 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/TBL003-254-04GR-2OR_render.png" width="320" height=320 />
-    <img src="./docs/readme/img/TBL003-254-04GR-2OR_model.png" width="320" height=320 />
+    <img src="./docs/readme/img/TBL003-254-04GR-2OR_render.png" width="320" height="320" />
+    <img src="./docs/readme/img/TBL003-254-04GR-2OR_model.png" width="320" height="320" />
 </div>
 
 ### BU33UV7NUX
@@ -174,7 +174,7 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
@@ -189,7 +189,7 @@ Synchronous Boost DC/DC Converter 3.3 V
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
@@ -199,6 +199,6 @@ Ultra-Low Quiescent Current Synchronous Boost with Integrated LDO/Load Switch
 </p>
 
 <div display="flex">
-    <img src="./docs/readme/img/TPS61098x_render.png" width="320" height=320 />
+    <img src="./docs/readme/img/TPS61098x_render.png" width="320" height="320" />
 </div>
 
