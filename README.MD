@@ -64,20 +64,23 @@ Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.
 </p>
 
 
-### Neopixel 3535
+### Adafruit Neopixel Mini 4957 
 
 <div display="flex">
-        <img alt="Symbol unavailable" src="./docs/readme/symbol_icon.png" width="48" height="48" />
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height=48 />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
 </div>
 
 <p>
 
-WS2812B Neopixel LED in a 3.5mm x 3.5mm package.
+SK6812MINI Neopixel LED in a 3.5mm x 3.5mm package.
 
 </p>
 
+<div display="flex">
+    <img src="./docs/readme/img/SK6812MINI_render.png" width="320" height=320 />
+</div>
 
 ### 1206L150TH
 
@@ -164,5 +167,38 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 <div display="flex">
     <img src="./docs/readme/img/TBL003-254-04GR-2OR_render.png" width="320" height=320 />
     <img src="./docs/readme/img/TBL003-254-04GR-2OR_model.png" width="320" height=320 />
+</div>
+
+### BU33UV7NUX
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+</div>
+
+<p>
+
+Synchronous Boost DC/DC Converter 3.3 V
+
+</p>
+
+
+### TPS61098x
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height=48 />
+</div>
+
+<p>
+
+Ultra-Low Quiescent Current Synchronous Boost with Integrated LDO/Load Switch
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/TPS61098x_render.png" width="320" height=320 />
 </div>
 

@@ -25,13 +25,13 @@
       "part_number": "MMSZ5261BT1G"
     },
     {
-      "description": "WS2812B Neopixel LED in a 3.5mm x 3.5mm package.",
+      "description": "SK6812MINI Neopixel LED in a 3.5mm x 3.5mm package.",
       "has_footprint": true,
-      "has_model": false,
-      "has_symbol": false,
+      "has_model": true,
+      "has_symbol": true,
       "id": 2,
-      "images": [],
-      "part_number": "Neopixel 3535"
+      "images": ["SK6812MINI_render.png"],
+      "part_number": "Adafruit Neopixel Mini 4957 "
     },
     {
       "description": "Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.",
