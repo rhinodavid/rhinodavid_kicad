@@ -102,6 +102,19 @@
       "id": 9,
       "images": ["TPS61098x_render.png"],
       "part_number": "TPS61098x"
+    },
+    {
+      "description": "Wurth Electronic IQXO-540 Standard 2 x 1.6 crystal oscillator in a ceramic package with a seam sealed metal lid, hermetically sealed.",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 10,
+      "images": [
+        "831068248_render.png",
+        "831068248_model.png",
+        "831068248_footprint.png"
+      ],
+      "part_number": "831068248"
     }
   ]
 }

@@ -202,3 +202,23 @@ Ultra-Low Quiescent Current Synchronous Boost with Integrated LDO/Load Switch
     <img src="./docs/readme/img/TPS61098x_render.png" width="320" height="320" />
 </div>
 
+### 831068248
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+Wurth Electronic IQXO-540 Standard 2 x 1.6 crystal oscillator in a ceramic package with a seam sealed metal lid, hermetically sealed.
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/831068248_render.png" width="320" height="320" />
+    <img src="./docs/readme/img/831068248_model.png" width="320" height="320" />
+    <img src="./docs/readme/img/831068248_footprint.png" width="320" height="320" />
+</div>
+
