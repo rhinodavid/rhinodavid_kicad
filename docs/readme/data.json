@@ -34,12 +34,12 @@
       "part_number": "Adafruit Neopixel Mini 4957 "
     },
     {
-      "description": "Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.",
+      "description": "Littelfuse, Inc. Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.",
       "has_footprint": true,
-      "has_model": false,
+      "has_model": true,
       "has_symbol": true,
       "id": 3,
-      "images": [],
+      "images": ["1206L150TH_render.png"],
       "part_number": "1206L150TH"
     },
     {

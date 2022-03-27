@@ -87,15 +87,18 @@ SK6812MINI Neopixel LED in a 3.5mm x 3.5mm package.
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
 
-Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.
+Littelfuse, Inc. Polymeric PTC Resettable Fuse 8V 1.5 A in a SMD 1206 package.
 
 </p>
 
+<div display="flex">
+    <img src="./docs/readme/img/1206L150TH_render.png" width="320" height="320" />
+</div>
 
 ### SSM3J331R
 
