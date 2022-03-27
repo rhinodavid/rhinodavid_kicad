@@ -321,3 +321,21 @@ STMicroelectronics Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-
     <img src="./docs/readme/img/LDL1117S33R_render.png" width="320" height="320" />
 </div>
 
+### PKMCS0909E4000-R1
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+Murata Electronics Buzzer Transducer, Externally Driven Piezo 1.5 V - 4kHz 65dB @ 1.5V, 10cm Surface Mount
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/PKMCS0909E4000-R1_render.png" width="320" height="320" />
+</div>
+

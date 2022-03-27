@@ -170,6 +170,17 @@
         "LDL1117S33R_render.png"
       ],
       "part_number": "LDL1117S33R"
+    },
+    {
+      "description": "Murata Electronics Buzzer Transducer, Externally Driven Piezo 1.5 V - 4kHz 65dB @ 1.5V, 10cm Surface Mount",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 16,
+      "images": [
+        "PKMCS0909E4000-R1_render.png"
+      ],
+      "part_number": "PKMCS0909E4000-R1"
     }
   ]
 }
