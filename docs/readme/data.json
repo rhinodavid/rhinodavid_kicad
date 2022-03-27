@@ -126,6 +126,17 @@
         "AMCA31-2R450G-S1F-T3_render.png"
       ],
       "part_number": "AMCA31-2R450G-S1F-T3"
+    },
+    {
+      "description": "Vishay General Semiconductor TVS Diode 13.4VC; DO214AA package",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 12,
+      "images": [
+        "SMBJ8.0D-M3H_render.png"
+      ],
+      "part_number": "SMBJ8.0D-M3/H"
     }
   ]
 }

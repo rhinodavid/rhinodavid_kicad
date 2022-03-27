@@ -249,3 +249,21 @@ Surface Mount WLAN / Bluetooth Chip Antenna (2450MHz)
     <img src="./docs/readme/img/AMCA31-2R450G-S1F-T3_render.png" width="320" height="320" />
 </div>
 
+### SMBJ8.0D-M3/H
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+Vishay General Semiconductor TVS Diode 13.4VC; DO214AA package
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/SMBJ8.0D-M3H_render.png" width="320" height="320" />
+</div>
+
