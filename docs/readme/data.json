@@ -115,6 +115,17 @@
         "831068248_footprint.png"
       ],
       "part_number": "831068248"
+    },
+    {
+      "description": "Surface Mount WLAN / Bluetooth Chip Antenna (2450MHz)",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 11,
+      "images": [
+        "AMCA31-2R450G-S1F-T3_render.png"
+      ],
+      "part_number": "AMCA31-2R450G-S1F-T3"
     }
   ]
 }

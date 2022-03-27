@@ -225,3 +225,21 @@ Wurth Electronic IQXO-540 Standard 2 x 1.6 crystal oscillator in a ceramic packa
     <img src="./docs/readme/img/831068248_footprint.png" width="320" height="320" />
 </div>
 
+### AMCA31-2R450G-S1F-T3
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+Surface Mount WLAN / Bluetooth Chip Antenna (2450MHz)
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/AMCA31-2R450G-S1F-T3_render.png" width="320" height="320" />
+</div>
+
