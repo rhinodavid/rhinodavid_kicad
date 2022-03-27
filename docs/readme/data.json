@@ -45,11 +45,11 @@
     {
       "description": "P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.",
       "has_footprint": true,
-      "has_model": false,
+      "has_model": true,
       "has_symbol": true,
       "id": 4,
-      "images": [],
-      "part_number": "SSM3J331"
+      "images": ["SSM3J331R_render.png"],
+      "part_number": "SSM3J331R"
     },
     {
       "description": "1 Channel Schmitt Trigger NAND Gate IC in a 5-X2SON (0.80mm x 0.80mm) package. Great for button debouncing.",
