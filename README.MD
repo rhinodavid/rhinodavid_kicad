@@ -285,3 +285,21 @@ Jauch Quartz 32.768 kHz ±20ppm Crystal 7pF 70 kOhms 2-SMD, No Lead
     <img src="./docs/readme/img/JTX310_render.png" width="320" height="320" />
 </div>
 
+### DMN2005K-7
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+Diodes Inc. N-Channel 20V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23-3 MOSFET
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/DMN2005K-7_render.png" width="320" height="320" />
+</div>
+

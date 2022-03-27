@@ -148,6 +148,17 @@
         "JTX310_render.png"
       ],
       "part_number": "JTX310"
+    },
+    {
+      "description": "Diodes Inc. N-Channel 20V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23-3 MOSFET",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 14,
+      "images": [
+        "DMN2005K-7_render.png"
+      ],
+      "part_number": "DMN2005K-7"
     }
   ]
 }
