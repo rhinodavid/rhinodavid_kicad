@@ -159,6 +159,17 @@
         "DMN2005K-7_render.png"
       ],
       "part_number": "DMN2005K-7"
+    },
+    {
+      "description": "STMicroelectronics Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 15,
+      "images": [
+        "LDL1117S33R_render.png"
+      ],
+      "part_number": "LDL1117S33R"
     }
   ]
 }

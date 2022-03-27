@@ -303,3 +303,21 @@ Diodes Inc. N-Channel 20V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23-3 MOSFET
     <img src="./docs/readme/img/DMN2005K-7_render.png" width="320" height="320" />
 </div>
 
+### LDL1117S33R
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+STMicroelectronics Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/LDL1117S33R_render.png" width="320" height="320" />
+</div>
+
