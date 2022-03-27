@@ -54,7 +54,7 @@ KiCad 6.0 and above
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
         <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
-        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
 </div>
 
 <p>
@@ -63,6 +63,9 @@ Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.
 
 </p>
 
+<div display="flex">
+    <img src="./docs/readme/img/MMSZ5261BT1G_render.png" width="320" height="320" />
+</div>
 
 ### Adafruit Neopixel Mini 4957 
 

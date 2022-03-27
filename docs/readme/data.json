@@ -18,10 +18,10 @@
     {
       "description": "Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.",
       "has_footprint": true,
-      "has_model": false,
+      "has_model": true,
       "has_symbol": true,
       "id": 1,
-      "images": [],
+      "images": ["MMSZ5261BT1G_render.png"],
       "part_number": "MMSZ5261BT1G"
     },
     {

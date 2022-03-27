@@ -1,6 +1,6 @@
-(footprint "MMSZ52xxxT1G" (version 20211014) (generator pcbnew)
+(footprint "MMSZ5261BT1G" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 622D29C2)
+  (tedit 623FF0D8)
   (descr "Diode, Small Outline Diode (SOD); 2.69 mm L X 1.60 mm W X 1.35 mm H body")
   (tags "DIODE ZENER 47V 500MW SOD123")
   (attr smd)
@@ -53,4 +53,9 @@
   (fp_line (start 1.42 0.9) (end -1.42 0.9) (layer "F.Fab") (width 0.12) (tstamp dc9682be-7a0f-470c-88c6-5383a17f98a8))
   (pad "A" smd roundrect (at 1.635 0) (size 0.91 1.22) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2198) (tstamp 0cea3283-3027-4066-b170-3232cef084d3))
   (pad "C" smd roundrect (at -1.635 0) (size 0.91 1.22) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2198) (tstamp 5558fc24-ee50-47ab-b398-cd46c8a63bed))
+  (model ":rhinodavid:MMSZ5261BT1G.step"
+    (offset (xyz 0 0 0.1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -90))
+  )
 )
