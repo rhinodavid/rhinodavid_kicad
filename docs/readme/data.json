@@ -137,6 +137,17 @@
         "SMBJ8.0D-M3H_render.png"
       ],
       "part_number": "SMBJ8.0D-M3/H"
+    },
+    {
+      "description": "Jauch Quartz 32.768 kHz ±20ppm Crystal 7pF 70 kOhms 2-SMD, No Lead",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 13,
+      "images": [
+        "JTX310_render.png"
+      ],
+      "part_number": "JTX310"
     }
   ]
 }

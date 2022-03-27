@@ -267,3 +267,21 @@ Vishay General Semiconductor TVS Diode 13.4VC; DO214AA package
     <img src="./docs/readme/img/SMBJ8.0D-M3H_render.png" width="320" height="320" />
 </div>
 
+### JTX310
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+Jauch Quartz 32.768 kHz ±20ppm Crystal 7pF 70 kOhms 2-SMD, No Lead
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/JTX310_render.png" width="320" height="320" />
+</div>
+
