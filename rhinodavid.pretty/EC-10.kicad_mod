@@ -1,8 +1,9 @@
 (footprint "EC-10" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62428F04)
+  (tedit 6242926E)
   (descr "Tag Connect EdgeConnect 10-pin Castellated Board-Edge Connector to 10-pin 0.1″ pitch ribbon connector")
   (tags "EC-10 Tag Connect EdgeConnect SWD JTAG Debug dmw")
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -1.524 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 33528570-c75d-4efb-a3da-3424aae6be11)
@@ -129,9 +130,9 @@
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
-          (xy -0.508 0)
-          (xy -0.508 0.635)
           (xy 0.508 0.635)
+          (xy -0.508 0.635)
+          (xy -0.508 0)
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 7cf02eba-320e-4c24-bc14-06d84fe860a4))
