@@ -339,3 +339,21 @@ Murata Electronics Buzzer Transducer, Externally Driven Piezo 1.5 V - 4kHz 65dB 
     <img src="./docs/readme/img/PKMCS0909E4000-R1_render.png" width="320" height="320" />
 </div>
 
+### EC-10
+
+<div display="flex">
+        <img alt="Symbol unavailable" src="./docs/readme/symbol_icon.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
+</div>
+
+<p>
+
+Tag Connect EdgeConnect 10-pin Castellated Board-Edge Connector
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/EC-10_footprint.png" width="320" height="320" />
+</div>
+

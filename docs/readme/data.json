@@ -181,6 +181,17 @@
         "PKMCS0909E4000-R1_render.png"
       ],
       "part_number": "PKMCS0909E4000-R1"
+    },
+    {
+      "description": "Tag Connect EdgeConnect 10-pin Castellated Board-Edge Connector",
+      "has_footprint": true,
+      "has_model": false,
+      "has_symbol": false,
+      "id": 17,
+      "images": [
+        "EC-10_footprint.png"
+      ],
+      "part_number": "EC-10"
     }
   ]
 }
