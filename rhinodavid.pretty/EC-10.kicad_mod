@@ -1,6 +1,6 @@
 (footprint "EC-10" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6242926E)
+  (tedit 6246111D)
   (descr "Tag Connect EdgeConnect 10-pin Castellated Board-Edge Connector to 10-pin 0.1″ pitch ribbon connector")
   (tags "EC-10 Tag Connect EdgeConnect SWD JTAG Debug dmw")
   (attr through_hole exclude_from_pos_files exclude_from_bom)
@@ -16,7 +16,11 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 15ee5ebc-fe7b-4f64-8adb-582789425bf2)
   )
-  (fp_circle (center 6.35 1.016) (end 6.604 1.016) (layer "F.SilkS") (width 0) (fill solid) (tstamp 30eb213d-1731-4208-bd10-cd7228d2a4be))
+  (fp_poly (pts
+      (xy 5.775 1.767321)
+      (xy 6.35 0.817321)
+      (xy 6.925 1.767321)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp c75cb1dc-8d4e-4403-989f-f88b0ea1227d))
   (fp_line (start 8.89 0) (end -8.89 0) (layer "Dwgs.User") (width 0.254) (tstamp 6c5506b5-64cb-4e8e-ae8b-513622078a77))
   (fp_line (start 8.89 1.778) (end 1.523999 1.778) (layer "B.CrtYd") (width 0.05) (tstamp 176a1d89-5ca0-4c8d-8bb8-1a9252d47b26))
   (fp_line (start 8.89 -0.762) (end 8.89 1.778) (layer "B.CrtYd") (width 0.05) (tstamp 5db47a02-bd8b-481c-bf3a-aeaa04d93a1c))
@@ -32,11 +36,10 @@
   (fp_line (start -8.89 -0.762) (end 8.89 -0.762) (layer "F.CrtYd") (width 0.05) (tstamp a85eb393-10fc-4923-b5d7-673966d99638))
   (fp_line (start -1.016 1.016) (end -1.016 0.762) (layer "F.CrtYd") (width 0.05) (tstamp da96ad1e-f451-4497-839a-933077c9502f))
   (fp_arc (start 1.016 1.016) (mid 0 2.032) (end -1.016 1.016) (layer "F.CrtYd") (width 0.05) (tstamp 3c673bb0-e1f9-4f1b-8397-ba2ad7db8c90))
-  (fp_circle (center 6.35 1.016) (end 6.604 1.016) (layer "F.Fab") (width 0) (fill solid) (tstamp e479947b-b4ff-4f4d-b4f2-419f3b130060))
   (pad "" np_thru_hole circle (at 0 1.016) (size 1.0668 1.0668) (drill 1.0668) (layers F&B.Cu *.Mask) (tstamp 26eed04c-4189-4f0a-ac47-fcfa5935e1fa))
   (pad "" np_thru_hole circle (at -8.128 0) (size 0.508 0.508) (drill 0.508) (layers F&B.Cu *.Mask) (tstamp c23968ca-3043-4318-af21-42cef2ee9640))
   (pad "" np_thru_hole circle (at 8.128 0) (size 0.508 0.508) (drill 0.508) (layers F&B.Cu *.Mask) (tstamp fb2fcb57-eb34-4091-9575-2f36d1995500))
-  (pad "1" thru_hole custom (at 6.35 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "1" thru_hole custom (at 6.35 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -46,7 +49,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 028a0203-9ec3-4ce0-9dc2-a86bb54cf8c3))
-  (pad "2" thru_hole custom (at 5.08 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "2" thru_hole custom (at 5.08 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -56,7 +59,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 1a0a1550-0f03-4663-8b13-dd562ee453d8))
-  (pad "3" thru_hole custom (at 3.81 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "3" thru_hole custom (at 3.81 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -66,7 +69,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 5c12de10-fdec-4522-9318-2915e1748a01))
-  (pad "4" thru_hole custom (at 2.54 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "4" thru_hole custom (at 2.54 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -76,7 +79,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 10aa295e-c9ff-4d3e-a92d-d8eb0033bfa5))
-  (pad "5" thru_hole custom (at 1.27 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "5" thru_hole custom (at 1.27 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -86,7 +89,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp a6fc213a-1156-471a-b8c7-cbc51a1e71a4))
-  (pad "6" thru_hole custom (at -1.27 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "6" thru_hole custom (at -1.27 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -96,7 +99,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 70a6cf40-990e-4d58-976a-5ef59703b4c4))
-  (pad "7" thru_hole custom (at -2.54 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "7" thru_hole custom (at -2.54 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -106,7 +109,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp a240b6ee-154c-4fe0-aea3-e5b9f227c67f))
-  (pad "8" thru_hole custom (at -3.81 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "8" thru_hole custom (at -3.81 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -116,7 +119,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 22d47d84-23a6-482d-b773-e3ccec549669))
-  (pad "9" thru_hole custom (at -5.08 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "9" thru_hole custom (at -5.08 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
@@ -126,7 +129,7 @@
           (xy 0.508 0)
         ) (width 0) (fill yes))
     ) (tstamp 74e6de40-9d5b-43d1-9ff5-a7cf341e415f))
-  (pad "10" thru_hole custom (at -6.35 0) (size 1.016 1.016) (drill 0.8128) (layers *.Cu *.Mask)
+  (pad "10" thru_hole custom (at -6.35 0) (size 1.016 1.016) (drill 0.8128) (property pad_prop_castellated) (layers *.Cu *.Mask)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly (pts
