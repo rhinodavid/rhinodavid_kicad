@@ -357,3 +357,21 @@ Tag Connect EdgeConnect 10-pin Castellated Board-Edge Connector
     <img src="./docs/readme/img/EC-10_footprint.png" width="320" height="320" />
 </div>
 
+### Arm 10 Pin
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint unavailable" src="./docs/readme/footprint_icon.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
+</div>
+
+<p>
+
+An ARM 10 pin connector with pin definitions for JTAG and SWD
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/ARM_10_Pin_schematic.png" width="320" height="320" />
+</div>
+

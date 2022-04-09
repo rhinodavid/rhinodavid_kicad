@@ -122,9 +122,7 @@
       "has_model": true,
       "has_symbol": true,
       "id": 11,
-      "images": [
-        "AMCA31-2R450G-S1F-T3_render.png"
-      ],
+      "images": ["AMCA31-2R450G-S1F-T3_render.png"],
       "part_number": "AMCA31-2R450G-S1F-T3"
     },
     {
@@ -133,9 +131,7 @@
       "has_model": true,
       "has_symbol": true,
       "id": 12,
-      "images": [
-        "SMBJ8.0D-M3H_render.png"
-      ],
+      "images": ["SMBJ8.0D-M3H_render.png"],
       "part_number": "SMBJ8.0D-M3/H"
     },
     {
@@ -144,9 +140,7 @@
       "has_model": true,
       "has_symbol": true,
       "id": 13,
-      "images": [
-        "JTX310_render.png"
-      ],
+      "images": ["JTX310_render.png"],
       "part_number": "JTX310"
     },
     {
@@ -155,9 +149,7 @@
       "has_model": true,
       "has_symbol": true,
       "id": 14,
-      "images": [
-        "DMN2005K-7_render.png"
-      ],
+      "images": ["DMN2005K-7_render.png"],
       "part_number": "DMN2005K-7"
     },
     {
@@ -166,9 +158,7 @@
       "has_model": true,
       "has_symbol": true,
       "id": 15,
-      "images": [
-        "LDL1117S33R_render.png"
-      ],
+      "images": ["LDL1117S33R_render.png"],
       "part_number": "LDL1117S33R"
     },
     {
@@ -177,9 +167,7 @@
       "has_model": true,
       "has_symbol": true,
       "id": 16,
-      "images": [
-        "PKMCS0909E4000-R1_render.png"
-      ],
+      "images": ["PKMCS0909E4000-R1_render.png"],
       "part_number": "PKMCS0909E4000-R1"
     },
     {
@@ -188,10 +176,17 @@
       "has_model": false,
       "has_symbol": false,
       "id": 17,
-      "images": [
-        "EC-10_footprint.png"
-      ],
+      "images": ["EC-10_footprint.png"],
       "part_number": "EC-10"
+    },
+    {
+      "description": "An ARM 10 pin connector with pin definitions for JTAG and SWD",
+      "has_footprint": false,
+      "has_model": false,
+      "has_symbol": true,
+      "id": 18,
+      "images": ["ARM_10_Pin_schematic.png"],
+      "part_number": "Arm 10 Pin"
     }
   ]
 }
