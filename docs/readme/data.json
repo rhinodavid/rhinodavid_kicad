@@ -187,6 +187,15 @@
       "id": 18,
       "images": ["ARM_10_Pin_schematic.png"],
       "part_number": "Arm 10 Pin"
+    },
+    {
+      "description": "Check your clone to make sure the pinout is the same -- some vary",
+      "has_footprint": false,
+      "has_model": false,
+      "has_symbol": true,
+      "id": 19,
+      "images": ["STLink_V2.png", "STLink_V2_schematic.png"],
+      "part_number": "STLink V2 Clone Adapter"
     }
   ]
 }

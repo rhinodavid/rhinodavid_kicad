@@ -375,3 +375,22 @@ An ARM 10 pin connector with pin definitions for JTAG and SWD
     <img src="./docs/readme/img/ARM_10_Pin_schematic.png" width="320" height="320" />
 </div>
 
+### STLink V2 Clone Adapter
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint unavailable" src="./docs/readme/footprint_icon.png" width="48" height="48">
+        <img alt="Model unavailable" src="./docs/readme/model_icon.png" width="48" height="48" />
+</div>
+
+<p>
+
+Check your clone to make sure the pinout is the same -- some vary
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/STLink_V2.png" width="320" height="320" />
+    <img src="./docs/readme/img/STLink_V2_schematic.png" width="320" height="320" />
+</div>
+
