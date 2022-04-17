@@ -196,6 +196,15 @@
       "id": 19,
       "images": ["STLink_V2.png", "STLink_V2_schematic.png"],
       "part_number": "STLink V2 Clone Adapter"
+    },
+    {
+      "description": "4-SMD no lead crystal oscillator",
+      "has_footprint": true,
+      "has_model": true,
+      "has_symbol": true,
+      "id": 20,
+      "images": ["ECX-1637_render.png"],
+      "part_number": "ECX-1637"
     }
   ]
 }

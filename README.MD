@@ -394,3 +394,21 @@ Check your clone to make sure the pinout is the same -- some vary
     <img src="./docs/readme/img/STLink_V2_schematic.png" width="320" height="320" />
 </div>
 
+### ECX-1637
+
+<div display="flex">
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+</div>
+
+<p>
+
+4-SMD no lead crystal oscillator
+
+</p>
+
+<div display="flex">
+    <img src="./docs/readme/img/ECX-1637_render.png" width="320" height="320" />
+</div>
+
