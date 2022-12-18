@@ -29,6 +29,21 @@ KiCad 6.0 and above
 
 ## Parts
 
+### Legend
+
+<div>
+        <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
+        <span>Symbol included</span>
+</div>
+<div>
+        <img alt="Footprint available" src="./docs/readme/footprint_icon_alternate.png" width="48" height="48">
+        <span>Footprint included</span>
+</div>
+<div>
+        <img alt="Model available" src="./docs/readme/model_icon_alternate.png" width="48" height="48" />
+        <span>3D model included</span>
+</div>
+
 ### OLED_SSD1306_folded
 
 <div display="flex">
@@ -67,7 +82,7 @@ Zener Diode 47 V 500 mW ±5% Surface Mount SOD-123.
     <img src="./docs/readme/img/MMSZ5261BT1G_render.png" width="320" height="320" />
 </div>
 
-### Adafruit Neopixel Mini 4957 
+### Adafruit Neopixel Mini 4957
 
 <div display="flex">
         <img alt="Symbol available" src="./docs/readme/symbol_icon_alternate.png" width="48" height="48" />
@@ -191,7 +206,6 @@ P-Channel SMD MOSFET, 20 V 4A 1W SOT-23F.
 Synchronous Boost DC/DC Converter 3.3 V
 
 </p>
-
 
 ### TPS61098x
 
@@ -411,4 +425,3 @@ Check your clone to make sure the pinout is the same -- some vary
 <div display="flex">
     <img src="./docs/readme/img/ECX-1637_render.png" width="320" height="320" />
 </div>
-
